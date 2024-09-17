@@ -5,7 +5,7 @@ On this day some new had broken out, hezbollah members had been targetted by an 
 attack in which caused their pagers to suddenly and randomly "explode" as they are in the posession of its members, many vidoes
 are circulating on the internet as of right now
 
-### DISCLAIMER this post was being written before this post
+### DISCLAIMER
 **I am NOT** a chemist or in any way **knowledgable** interms of electronics, 
 this post was made by using purely research and some critical thinking to show how e
 asy disinformation campagins can go. I would like to add I do not **ASSOCIATE** nor am I
@@ -15,6 +15,7 @@ May god help us all.
 
 \
 \
+#### Very useful side note
 side note:
 \
 This post basically re-affirms my blog with jake williams the previous head of Research & Development in the United states NSA saying "these explosions aren't just battires", ill still post it eitherway because im bored and its annoying seeing people fall for propaganda and fear mongering\
@@ -76,13 +77,6 @@ the message when it's critical to gather without needing an immediate reply.
 
 
 
-## Intermission
-Now that the pagers are out of the way, lets move on to the next topic at hand. muh fucken BATTERIES
-
-
-
-
-
 ## What are lithium ion batteries and how are they involved?
 Lithium-ion batteries are rechargeable and used in many devices like phones and laptops. 
 They work by moving tiny particles called lithium ions between two parts inside the battery
@@ -128,6 +122,12 @@ eventually catch fire or explode if the safety features don’t stop it in time.
 
 source:https://www.explainthatstuff.com/how-lithium-ion-batteries-work.html
 
+
+## Intermission
+Now that the pagers are out of the way, lets move on to the next topic at hand. muh fucken BATTERIES
+
+## Cyber Punk Reference?
+While there are methods
 
 ## So israel did use a cyber attack?
 
