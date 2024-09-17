@@ -1,11 +1,11 @@
 
-\
+### A simple investigation
 \
 On this day some new had broken out, hezbollah members had been targetted by an israeli
 attack in which caused their pagers to suddenly and randomly "explode" as they are in the posession of its members, many vidoes
 are circulating on the internet as of right now
 
-## DISCLAIMER this post was being written before this post
+### DISCLAIMER this post was being written before this post
 **I am NOT** a chemist or in any way **knowledgable** interms of electronics, 
 this post was made by using purely research and some critical thinking to show how e
 asy disinformation campagins can go. I would like to add I do not **ASSOCIATE** nor am I
@@ -22,7 +22,7 @@ https://www.wired.com/story/pager-explosion-hezbollah/
 
 
 
-# What are these pagers and why is hezbollah using them?
+## What are these pagers and why is hezbollah using them?
 A pager is a small device you carry around that works like a personal radio.
 When someone wants to send you a message, they dial a special number linked to your pager. 
 The message gets sent out through radio waves to lots of pagers at once, but only your pager, 
@@ -34,14 +34,14 @@ It's like a simple phone that only receives messages, and the battery lasts a lo
 Hezbollah is essentially cutting the cord on using cellphones because it is a "Safer" method to
 basically call for emergencies, whether it is OPSEC safe or not, you be the judge.
 
-## Insides of a pager
+### Insides of a pager
 \
-![img_3.png](img_3.png)
+![Alt text](assets/images/img_3.png)
 <img src="img_3.png" alt="Image 3">
 
 A more simplified IRL version of that image\
 \
-![img_4.png](img_4.png)
+![Alt text](assets/images/img_4.png)
 <img src="img_4.png" alt="Image 4">
 As you can see these batteries on point 7 are PRETTTYYYYYY small compared to the one that had
 overheated above in the blog.
@@ -50,7 +50,7 @@ overheated above in the blog.
 
 
 
-## Goods
+### Goods
 The advantages of pagers could be useful for
 Hezbollah members or any group operating in challenging environments. 
 The long range of pagers allows members to communicate effectively in remote or mountainous 
@@ -64,7 +64,7 @@ which can be tracked more easily.
 
 
 
-## Bads
+### Bads
 
 
 Given the disadvantages, pagers become mostly useful for emergency
@@ -79,14 +79,14 @@ the message when it's critical to gather without needing an immediate reply.
 
 
 
-# Intermission
+## Intermission
 Now that the pagers are out of the way, lets move on to the next topic at hand. muh fucken BATTERIES
 
 
 
 
 
-# What are lithium ion batteries and how are they involved?
+## What are lithium ion batteries and how are they involved?
 Lithium-ion batteries are rechargeable and used in many devices like phones and laptops. 
 They work by moving tiny particles called lithium ions between two parts inside the battery
 when it's charging and discharging. When you charge the battery, the ions move from one side 
@@ -98,7 +98,7 @@ han other types of batteries, but they also have safety features to prevent over
 
 
 
-## Goods 
+### Goods 
 Lithium-ion batteries have several advantages. 
 They are more reliable than older batteries and don’t need to be fully drained before recharging. 
 They’re also lighter and can store more energy compared to other rechargeable batteries. Since they 
@@ -107,7 +107,7 @@ they’ve improved, especially in electric cars like Tesla, where newer batterie
 last longer, and give cars a longer driving range before needing a recharge.
 
 
-## Bads
+### Bads
 Lithium-ion batteries have a few disadvantages. They store less energy than gasoline,
 so electric cars take longer to charge compared to refueling a gas car. There are also safety concerns 
 because these batteries can overheat, catch fire, or even explode if overcharged or damaged, though safety 
@@ -116,7 +116,7 @@ which can lead to failure. While these fires have gotten attention, gasoline car
 more often. Researchers are working on safer materials to reduce these risks in the future.
 
 
-## Overheating conditions?
+### Overheating conditions?
 
 If a lithium-ion battery overheats,
 the normal movement of ions inside it gets disrupted, which can cause the battery to get even hotter.
@@ -132,7 +132,7 @@ eventually catch fire or explode if the safety features don’t stop it in time.
 source:https://www.explainthatstuff.com/how-lithium-ion-batteries-work.html
 
 
-# So israel did use a cyber attack?
+## So israel did use a cyber attack?
 
 Wrong, all of this electromagnetic and cybersecurity fearmongering can be EASILY disuaded with 1 simple factor. Energy.
 
@@ -141,37 +141,27 @@ Look at the cases in which phone batteries explode, the most minimal of research
 
 What about the pagers? 
 
-![img_1.png](img_1.png)
-<img src="img_1.png" alt="Image 1">
-![img_2.png](img_2.png)
-<img src="img_2.png" alt="Image 1">
+![Alt text](assets/images/img_1.png)
+![Alt text](assets/images/img_2.png)
 \
-source:https://store.jtech.com/jtech-rugged-pager-nimh-battery-3-pack/
+source: https://store.jtech.com/jtech-rugged-pager-nimh-battery-3-pack/
 
 these pagers are a MEASILY 300~ mAh, 
 pagers are relatively a low energy tool that do NOT need that much energy to function and somehow they explode
 like bombs?, this is what a lithium battery looks like usually when it overheats, focus on the keyword. **overheats**
 
-![img.png](img.png)
-<img src="img.png" alt="Image">
+![Alt text](assets/images/img.png)
 \
 source: https://cdn4.explainthatstuff.com/lithium-ion-battery-failure.jpg
 
 
 
 # Conclusion
-So what does that mean? it means that there is no way in ANY WORLD that this would be the case
-The smaller battery has less stored energy, so even if you manage to trigger an explosion, 
-it would result in a relatively small reaction. Just like a firecracker, 
-it might make a bang but won’t cause significant damage like seen in the videos and reports
-, if these small lithium ions where really THAT dangerous we would see all our cars, phone and 
-any small devices be causing causalities due to overheating or even possibly malfunctions
-on the daily EASILY in the hundred thousands.
+So what does that mean? it means that there is no way in ANY WORLD that this would be the case where it was a 
+cyber attack or else everyone would have had a virus by now that caused their PC to explode mr.robot style
+what is it? I really dont know, it could be frequency overloading in combination with maybe a tampered
+battery that causes overheating and a massive BOOM OR... anything else really. its too early to tell
 
-
-This is legimitately taking a lighter and a flamethrower from WW2 to then say, 
-"oh my god look how dangerous the lighter is, its practically the same as a flamethrower", so NO. this is **NOT** a cyber attack but
-rather an espionage campaign held out by israel tampering the chemicals in these pagers.
 
 Final note:
 
