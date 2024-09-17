@@ -37,10 +37,12 @@ basically call for emergencies, whether it is OPSEC safe or not, you be the judg
 ## Insides of a pager
 \
 ![img_3.png](img_3.png)
+<img src="img_3.png" alt="Image 3">
 
 A more simplified IRL version of that image\
 \
 ![img_4.png](img_4.png)
+<img src="img_4.png" alt="Image 4">
 As you can see these batteries on point 7 are PRETTTYYYYYY small compared to the one that had
 overheated above in the blog.
 
@@ -140,7 +142,9 @@ Look at the cases in which phone batteries explode, the most minimal of research
 What about the pagers? 
 
 ![img_1.png](img_1.png)
+<img src="img_1.png" alt="Image 1">
 ![img_2.png](img_2.png)
+<img src="img_2.png" alt="Image 1">
 \
 source:https://store.jtech.com/jtech-rugged-pager-nimh-battery-3-pack/
 
@@ -149,6 +153,7 @@ pagers are relatively a low energy tool that do NOT need that much energy to fun
 like bombs?, this is what a lithium battery looks like usually when it overheats, focus on the keyword. **overheats**
 
 ![img.png](img.png)
+<img src="img.png" alt="Image">
 \
 source: https://cdn4.explainthatstuff.com/lithium-ion-battery-failure.jpg
 
