@@ -1,4 +1,8 @@
-
+---
+layout: post
+title: "Pagers exploding due to cyber attack Elaborate Espionage or CyberPunk Dystopia"
+date: 2024-09-17 10:00:00 +0000
+---
 # God I hate ADCS... BUT I am a maschocist...
 
 \

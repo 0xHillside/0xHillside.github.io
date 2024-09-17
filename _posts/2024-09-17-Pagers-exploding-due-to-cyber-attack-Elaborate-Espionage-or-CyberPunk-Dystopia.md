@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Pagers exploding due to cyber attack Elaborate Espionage or CyberPunk Dystopia"
+date: 2024-09-17 10:00:00 +0000
+---
 
 ### A simple investigation
 \
@@ -13,8 +18,8 @@ asy disinformation campagins can go. I would like to add I do not **ASSOCIATE** 
 israels claims interms of technical shit and proving this was **NOT** a cyber attack, if it was well...
 May god help us all.
 
-\
-\
+
+
 #### Very useful side note
 side note:
 \
@@ -38,9 +43,14 @@ basically call for emergencies, whether it is OPSEC safe or not, you be the judg
 ### Insides of a pager
 \
 ![Alt text](assets/images/img_3.png)
-A more simplified IRL version of that image\
+\
+
+A more simplified IRL version of that image
+\
 \
 ![Alt text](assets/images/img_4.png)
+
+
 As you can see these batteries on point 7 are PRETTTYYYYYY small compared to the one that had
 overheated above in the blog.
 
