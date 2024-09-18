@@ -127,26 +127,34 @@ This can happen if the battery is overcharged, damaged, or short-circuited. As t
 the heat causes more instability, leading to a dangerous cycle where the battery gets hotter and may
 eventually catch fire or explode if the safety features don’t stop it in time.
 
-
-
+### IMPORTANT NOTE 
 
 
 
 source:https://www.explainthatstuff.com/how-lithium-ion-batteries-work.html
 
 
-## Intermission
-Now that the pagers are out of the way, lets move on to the next topic at hand. muh fucken BATTERIES
+# Intermission
+Now that the pagers are out of the way lets move on to the next topic at hand, muh fucken CYBERSECURITY.
 
-## Cyber Punk Reference?
-While there are methods
+## are we in the Cyber Punk future ?
+While there are research papers from the University of florida documenting the usage of "voltage noise" to manipulate wireless charger 
+and even making phones overheat its still not effective enough to send a "HACK" simply because 
+to overload certain wireless devices like phones and even making FOB's explode But...
 
-## So israel did use a cyber attack?
+This is **after** modifying the ALREADY hardware built **thermal protection**
 
-Wrong, all of this electromagnetic and cybersecurity fearmongering can be EASILY disuaded with 1 simple factor. Energy.
+source: https://arxiv.org/pdf/2402.11423
 
-Look at the cases in which phone batteries explode, the most minimal of research into said battery can show that these batteries are EASILY over 
-2500~ mAh so it makes sense how they have that potential.
+## So can israel do this to phones too?
+
+even if this IS a cyber attack (spoiler alert its not), all of this electromagnetic and cybersecurity fearmongering can be EASILY 
+disuaded with 1 simple factor as to why these pagers cant explode. Energy.
+
+Look at the cases in which phone batteries explode like the samsung note 7 which had 
+MANY instances of which it was "exploding" (in reality catching fire)
+, the most minimal of research into said battery can show that these batteries are EASILY over 
+3500~ mAh so it makes sense how they have that potential to be scary and hurt poeple
 
 What about the pagers? 
 
@@ -156,29 +164,37 @@ What about the pagers?
 source: https://store.jtech.com/jtech-rugged-pager-nimh-battery-3-pack/
 
 these pagers are a MEASILY 300~ mAh, 
-pagers are relatively a low energy tool that do NOT need that much energy to function and somehow they explode
-like bombs?, this is what a lithium battery looks like usually when it overheats, focus on the keyword. **overheats**
+pagers are relatively a low energy tool that do NOT need that much energy to function and somehow you want me to believe they can 
+"explode" the same way they do in those videos
+like bombs?, this is what a lithium battery for a phone looks like usually when it overheats, focus on the keyword. **overheats**
 
 ![Alt text](assets/images/img.png)
 \
 source: https://cdn4.explainthatstuff.com/lithium-ion-battery-failure.jpg
-
-
+\
+So now you can see how suspicious it is that even a phone's battery that overheats and fails does not **explode** in the same way those pagers did
 
 # Conclusion
-So what does that mean? it means that there is no way in ANY WORLD that this would be the case where it was a 
-cyber attack or else everyone would have had a virus by now that caused their PC to explode mr.robot style
-what is it? I really dont know, it could be frequency overloading in combination with maybe a tampered
-battery that causes overheating and a massive BOOM OR... anything else really. its too early to tell
+
+So what now? the simple answer to this problem is no, it is NOT a cyber attack that I can say with 100% confidence and im sure
+other security professionals can say the same and/or already have. The conditions for an attack like this are extremely difficult to achieve and
+would most likely be an edge case scenario that would DEFINITELY **NOT** cause this. furtheremore if this where the case then we would
+be seeing much MUCH more highly political individuals getting respawned this specific way.
+
+# So what is it? (My humble opinion)
+
+I really dont know, what really came to mind and what makes the most sense as of now is that it could be a combination of techniques. Namely 
+Frequency overloading in combination with maybe a tampered battery that causes overheating and a massive BOOM OR... 
+It could be as simple as a wrapped plastic explosive hidden in the case of the pager and triggered by some israeli cell maybe? who knows
+its too early to tell and not much information has come out yet
 
 
-Final note:
+Closing note:
 
 If you disagree with me then you are completely justified to,
 everyone has their opinions and this was simply me stating out mine.
 If you want to have a conversation, disagree or have anything that might help reach to the _actual_
-truth of what had occured. please do contact me at saif.yas@hotmail.com and I will update this blog
-with every new piece of truth that comes out
+truth of what had occured. please do contact me on linkedin
 
 
 
