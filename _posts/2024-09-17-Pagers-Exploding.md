@@ -127,11 +127,9 @@ This can happen if the battery is overcharged, damaged, or short-circuited. As t
 the heat causes more instability, leading to a dangerous cycle where the battery gets hotter and may
 eventually catch fire or explode if the safety features don’t stop it in time.
 
-### IMPORTANT NOTE 
+source: https://www.explainthatstuff.com/how-lithium-ion-batteries-work.html
 
 
-
-source:https://www.explainthatstuff.com/how-lithium-ion-batteries-work.html
 
 
 # Intermission
