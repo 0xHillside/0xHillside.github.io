@@ -205,4 +205,4 @@ truth of what had occured. please do contact me on linkedin
 \
 Thank you for reading <3
 \
-have a nice day fuckwit dont forget to turn your brain on
+have a nice day fuckwit don't forget to turn your brain on
