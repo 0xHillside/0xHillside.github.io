@@ -13,6 +13,10 @@ attack in which caused their pagers to suddenly and randomly "explode" as they a
 are circulating on the internet as of right now
 
 ### DISCLAIMER
+
+Skip to the conclusion if you dont wanna read all of this
+
+\
 **I am NOT** a chemist or in any way **knowledgable** interms of electronics, 
 this post was made by using purely research and some critical thinking to show how e
 asy disinformation campagins can go. I would like to add I do not **ASSOCIATE** nor am I
