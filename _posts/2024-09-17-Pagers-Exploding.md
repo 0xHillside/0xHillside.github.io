@@ -144,11 +144,12 @@ While there are research papers from the University of florida documenting the u
 and even making phones overheat its still not effective enough to send a "HACK" simply because 
 to overload certain wireless devices like phones and even making FOB's explode But...
 
-This is **after** modifying the ALREADY hardware built **thermal protection**
+This is **after** modifying the ALREADY hardware built **thermal protection** which means that SOMEHOW they
+have to disable that physically, which also gives the implication that it was a supply chain attack
 
 source: https://arxiv.org/pdf/2402.11423
 
-## So can israel do this to phones too?
+## But what about the battery exploding?
 
 even if this IS a cyber attack (spoiler alert its not), all of this electromagnetic and cybersecurity fearmongering can be EASILY 
 disuaded with 1 simple factor as to why these pagers cant explode. Energy.
@@ -177,7 +178,7 @@ source: https://cdn4.explainthatstuff.com/lithium-ion-battery-failure.jpg
 So now you can see how suspicious it is that even a phone's battery that overheats and fails does not **explode** in
 the same way those pagers did
 
-## Ermmm wheres the proof?
+### Ermmm wheres the proof?
 
 Lets take a look at the samsung note 7 for example, the samsung note 7 had a MASSIVE issue with the battery where it would heat up and then
 "explode"
@@ -204,9 +205,19 @@ As can be seen in the video, this seems much MUCH more similar to the pager expl
 
 ## How does that explain the remote detonation? 
 
-Well as far as I can assume there are 2 techniques that are viable here, either it be finding a vulnerability (unlikely) or the more realistic one and easier one for easier.
-installing faulty firmware that has a very specific message when received from a frequency too then it trigger the action or possible heating up
-or god knows what
+Well as far as I can assume it was probably as everyone else also speculates, firmware hacking done.
+now how did they do firmware hacking so fast? well... they didnt, this attack vector is not something new
+and has been done multiple times by israel specifically against a hamas operative under the name "the engineer"
+known for his work in creating suicide bombs, he was later assassinated by israel;
+
+"Shin Bet agents gave him a cell phone and told him it was bugged so they could listen in on 
+his conversations. They did not tell him that it also contained 15 grams of RDX explosive.
+Hamad gave the phone to his nephew Osama, knowing that Ayyash regularly used Osama's phones.
+
+At 08:00 on 5 January 1996, Ayyash's father called him and Ayyash answered.
+Overhead, an Israeli plane picked up their conversation and relayed it to an Israeli 
+command post. When it was confirmed that it was Ayyash on the phone,
+Shin Bet remotely detonated it, killing him instantly"
 
 
 # Conclusion
@@ -229,7 +240,7 @@ Closing note:
 If you disagree with me then you are completely justified to,
 everyone has their opinions and this was simply me stating out mine.
 If you want to have a conversation, disagree or have anything that might help reach to the _actual_
-truth of what had occured. please do contact me on linkedin
+truth of what had occurred. please do contact me on linkedin
 
 
 
