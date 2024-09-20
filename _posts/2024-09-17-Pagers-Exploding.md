@@ -82,8 +82,8 @@ which can be tracked more easily.
 
 
 Given the disadvantages, pagers become mostly useful for emergency
-meetings or situations where immediate response isn’t required. The one-way comm
-unication limits their ability to coordinate in real time, and the lack of message de
+meetings or situations where immediate response isn’t required. The one-way 
+communication limits their ability to coordinate in real time, and the lack of message de
 livery confirmation means members might miss critical information if they’re out of range
 or their pager is off. The need to resend messages repeatedly makes pagers less reliable for 
 ongoing communication. However, for broadcasting emergency meeting alerts, pagers still ser
@@ -174,11 +174,44 @@ like bombs?, this is what a lithium battery for a phone looks like usually when 
 \
 source: https://cdn4.explainthatstuff.com/lithium-ion-battery-failure.jpg
 \
-So now you can see how suspicious it is that even a phone's battery that overheats and fails does not **explode** in the same way those pagers did
+So now you can see how suspicious it is that even a phone's battery that overheats and fails does not **explode** in
+the same way those pagers did
+
+## Ermmm wheres the proof?
+
+Lets take a look at the samsung note 7 for example, the samsung note 7 had a MASSIVE issue with the battery where it would heat up and then
+"explode"
+
+https://www.youtube.com/watch?v=3fL9qaZXalE&pp=ygUZc2Ftc3VuZyBub3RlIDcgYnVybmluZyB1cA%3D%3D
+
+assessing the damage and the fire that can be seen, even if a phone where to blow up. it would cause some tissue damage and level 3 burns sure,
+but if a phone could NOT kill someone then how can that pager kill someone? simple. Something called RDX exists
+
+
+## RD- what now?
+RDX, also known as cyclotrimethylene trinitramine, is a type of plastic explosive. It is a yellowish-white, odorless,
+and highly stable crystalline powder. RDX is a key component in 
+various plastic explosives, including Composition C-4, a widely used military-grade explosive
+
+A few grames of this would literally be enough to open up your skull and kill you, here is an example of plastic C4 being used against
+a phone (yes its timed too)
+
+https://youtu.be/61PUSq69f30?t=290
+
+
+As can be seen in the video, this seems much MUCH more similar to the pager exploding rather than the samsung note 7 "exploding" 
+(inreality just burning up)
+
+## How does that explain the remote detonation? 
+
+Well as far as I can assume there are 2 techniques that are viable here, either it be finding a vulnerability (unlikely) or the more realistic one and easier one for easier.
+installing faulty firmware that has a very specific message when received from a frequency too then it trigger the action or possible heating up
+or god knows what
+
 
 # Conclusion
 
-So what now? the simple answer to this problem is no, it is NOT a cyber attack that I can say with 100% confidence and im sure
+So what now? the point of this blog is to prove that it was NOT a cyber attack and that I can say with 100% confidence and im sure
 other security professionals can say the same and/or already have. The conditions for an attack like this are extremely difficult to achieve and
 would most likely be an edge case scenario that would DEFINITELY **NOT** cause this. furtheremore if this where the case then we would
 be seeing much MUCH more highly political individuals getting respawned this specific way.
